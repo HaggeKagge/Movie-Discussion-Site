@@ -1,5 +1,23 @@
 h3{
 
     float: left;
-
+    
     }
+
+.div2{
+    height: 75px;
+    width: 100%;
+}
+
+img{
+    height: auto;
+    width: 25%;
+    margin: 0 400px;
+}
+
+.div3{
+
+width: 30%;
+border-style: solid;
+border-color: black;
+}
